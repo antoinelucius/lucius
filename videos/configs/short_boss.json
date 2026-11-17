@@ -1,0 +1,14 @@
+{
+  "title": "Short 3 - Boss special attack (9:16)",
+  "format": "9:16",
+  "output": "../out/short3_boss.mp4",
+  "music": "../music/short.mp3",
+  "music_volume": 0.4,
+  "segments": [
+    { "file": "../rushes/09_boss_golem.mp4", "start": 0, "duration": 2.0, "text": "THIS BOSS IS NOT FAIR", "flash": true },
+    { "file": "../rushes/s3_boss_full.mp4", "start": 0, "duration": 5.0, "text": "WAIT FOR IT..." },
+    { "file": "../rushes/s3_boss_full.mp4", "start": 5.0, "duration": 3.0, "speed": 0.5, "text": "ERUPTION!", "zoom": 1.1 },
+    { "file": "../rushes/s3_boss_full.mp4", "start": 6.5, "duration": 5.0, "text": "GG", "subtext": "LOOK AT THESE REWARDS" },
+    { "type": "card", "duration": 2.0, "text": "CAN YOU BEAT IT?", "subtext": "MYTHIC WORLDS SIMULATOR" }
+  ]
+}

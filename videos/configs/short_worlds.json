@@ -1,0 +1,13 @@
+{
+  "title": "Short 5 - First world vs last world (9:16)",
+  "format": "9:16",
+  "output": "../out/short5_worlds.mp4",
+  "music": "../music/short.mp3",
+  "music_volume": 0.5,
+  "segments": [
+    { "file": "../rushes/02_world1_pets.mp4", "start": 0, "duration": 3.0, "text": "WORLD 1" },
+    { "file": "../rushes/12_new_world.mp4", "start": 0, "duration": 3.0, "text": "UNLOCKING THE NEXT WORLD", "zoom": 1.1 },
+    { "file": "../rushes/s5_last_world.mp4", "start": 0, "duration": 5.0, "text": "THE LAST WORLD", "flash": true },
+    { "type": "card", "duration": 2.0, "text": "HOW FAR CAN YOU GO?", "subtext": "MYTHIC WORLDS SIMULATOR" }
+  ]
+}

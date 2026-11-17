@@ -1,0 +1,14 @@
+{
+  "title": "Short 4 - Fusion gamble (9:16)",
+  "format": "9:16",
+  "output": "../out/short4_fusion.mp4",
+  "music": "../music/short.mp3",
+  "music_volume": 0.45,
+  "segments": [
+    { "file": "../rushes/11_fusion.mp4", "start": 0, "duration": 1.5, "text": "I FUSED MY BEST PETS...", "flash": true },
+    { "file": "../rushes/s4_fusion_full.mp4", "start": 0, "duration": 4.0, "text": "5 LEGENDARIES IN" },
+    { "file": "../rushes/s4_fusion_full.mp4", "start": 4.0, "duration": 3.0, "speed": 0.6, "text": "PLEASE PLEASE PLEASE" },
+    { "file": "../rushes/s4_fusion_full.mp4", "start": 5.8, "duration": 4.0, "text": "NO WAY", "flash": true, "zoom": 1.12 },
+    { "type": "card", "duration": 2.0, "text": "WOULD YOU RISK IT?", "subtext": "MYTHIC WORLDS SIMULATOR" }
+  ]
+}

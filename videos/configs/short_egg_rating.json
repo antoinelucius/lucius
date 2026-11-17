@@ -1,0 +1,17 @@
+{
+  "title": "Short 2 - Rating every egg animation (9:16)",
+  "format": "9:16",
+  "output": "../out/short2_egg_rating.mp4",
+  "music": "../music/short.mp3",
+  "music_volume": 0.45,
+  "segments": [
+    { "file": "../rushes/08_egg_black_hole.mp4", "start": 0, "duration": 1.5, "text": "RATING EVERY EGG", "flash": true },
+    { "file": "../rushes/03_egg_meadow.mp4", "start": 0, "duration": 2.5, "text": "MEADOW EGG", "subtext": "4/10" },
+    { "file": "../rushes/04_egg_treasure.mp4", "start": 0, "duration": 2.5, "text": "TREASURE EGG", "subtext": "6/10" },
+    { "file": "../rushes/05_egg_volcanic_storm.mp4", "start": 0, "duration": 2.5, "text": "STORM EGG", "subtext": "7/10" },
+    { "file": "../rushes/06_egg_eruption.mp4", "start": 0, "duration": 2.5, "text": "ERUPTION EGG", "subtext": "8/10" },
+    { "file": "../rushes/07_egg_constellation.mp4", "start": 0, "duration": 2.5, "text": "STAR EGG", "subtext": "9/10" },
+    { "file": "../rushes/08_egg_black_hole.mp4", "start": 0, "duration": 3.5, "text": "BLACK HOLE EGG", "subtext": "11/10", "zoom": 1.1 },
+    { "type": "card", "duration": 2.0, "text": "WHICH ONE IS YOUR FAVORITE?", "subtext": "MYTHIC WORLDS SIMULATOR" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Trailer Roblox page - 30 s, 16:9",
+  "format": "16:9",
+  "fps": 30,
+  "output": "../out/trailer_16x9.mp4",
+  "music": "../music/trailer.mp3",
+  "music_volume": 0.55,
+  "game_volume": 0.9,
+  "segments": [
+    { "file": "../rushes/01_divine_hatch.mp4", "start": 0, "duration": 2.5, "text": "CAN YOU HATCH A DIVINE?", "flash": true },
+    { "file": "../rushes/02_world1_pets.mp4", "start": 0, "duration": 2.5, "text": "COLLECT MYTHIC PETS" },
+    { "file": "../rushes/03_egg_meadow.mp4", "start": 0, "duration": 0.9, "text": "6 LEGENDARY EGGS" },
+    { "file": "../rushes/04_egg_treasure.mp4", "start": 0, "duration": 0.9, "text": "6 LEGENDARY EGGS" },
+    { "file": "../rushes/05_egg_volcanic_storm.mp4", "start": 0, "duration": 0.9, "text": "6 LEGENDARY EGGS" },
+    { "file": "../rushes/06_egg_eruption.mp4", "start": 0, "duration": 0.9, "text": "6 LEGENDARY EGGS" },
+    { "file": "../rushes/07_egg_constellation.mp4", "start": 0, "duration": 0.9, "text": "6 LEGENDARY EGGS" },
+    { "file": "../rushes/08_egg_black_hole.mp4", "start": 0, "duration": 1.0, "text": "6 LEGENDARY EGGS" },
+    { "file": "../rushes/09_boss_golem.mp4", "start": 0, "duration": 3.5, "text": "DEFEAT EPIC BOSSES", "zoom": 1.08 },
+    { "file": "../rushes/10_boss_knight.mp4", "start": 0, "duration": 2.5, "text": "DODGE THEIR SPECIAL ATTACKS" },
+    { "file": "../rushes/11_fusion.mp4", "start": 0, "duration": 3.5, "text": "FUSE PETS", "subtext": "MAKE THEM STRONGER", "flash": true },
+    { "file": "../rushes/12_new_world.mp4", "start": 0, "duration": 3.0, "text": "UNLOCK NEW WORLDS", "zoom": 1.1 },
+    { "file": "../rushes/13_secret_hatch.mp4", "start": 0, "duration": 3.0, "speed": 0.6, "text": "SECRET PETS EXIST...", "flash": true },
+    { "type": "card", "duration": 3.0, "text": "MYTHIC WORLDS SIMULATOR", "subtext": "PLAY NOW ON ROBLOX", "fade_out": 0.4 }
+  ]
+}

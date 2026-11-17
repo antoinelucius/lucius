@@ -1,0 +1,14 @@
+{
+  "title": "Short 1 - Hatching until I get a DIVINE (9:16)",
+  "format": "9:16",
+  "output": "../out/short1_divine_hatch.mp4",
+  "music": "../music/short.mp3",
+  "music_volume": 0.45,
+  "segments": [
+    { "file": "../rushes/01_divine_hatch.mp4", "start": 0, "duration": 1.5, "text": "1 IN 1,000,000 PET?", "flash": true },
+    { "file": "../rushes/s1_hatch_spam.mp4", "start": 0, "duration": 6.0, "text": "HATCHING UNTIL I GET A DIVINE" },
+    { "file": "../rushes/s1_hatch_spam.mp4", "start": 6.0, "duration": 4.0, "text": "ALMOST..." },
+    { "file": "../rushes/01_divine_hatch.mp4", "start": 0, "duration": 5.0, "text": "DIVINE!!!", "flash": true, "zoom": 1.12 },
+    { "type": "card", "duration": 2.0, "text": "MYTHIC WORLDS SIMULATOR", "subtext": "PLAY ON ROBLOX" }
+  ]
+}
